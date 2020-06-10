@@ -1,1 +1,1 @@
-# AndroidLocaleExample
+# Android Locale Switch Example
