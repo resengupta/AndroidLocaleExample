@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application Test Locale</string>
+    <string name="title_home">****Home-French</string>
+    <string name="title_dashboard">****Dashboard-French</string>
+    <string name="title_notifications">****Notifications-French</string>
+    <string name="title_Button1">****Button for (En)</string>
+    <string name="title_Button2">****Button for (Fr)</string>
+</resources>
